@@ -76,7 +76,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Custom interfaces
 
 - [LibreChat](https://librechat.ai/) - LibreChat is a free and open-source chat interface for assistant AIs. [#opensource](https://github.com/danny-avila/LibreChat).
-- [Chatbot UI](https://www.chatbotui.com/) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
+- [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI. [#opensource](https://github.com/mckaywrigley/chatbot-ui).
 
 ### Search engines
 
@@ -250,7 +250,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
 - [Google AI Studio](https://aistudio.google.com/) - A web-based tool to prototype with Gemini and experimental models.
-- [GitHub Models](https://github.com/marketplace/models) - Find and experiment with AI models to develop a generative AI application.
+- [GitHub Models](https://github.com/marketplace?type=models) - Find and experiment with AI models to develop a generative AI application.
 
 ### Local LLM Deployment
 
@@ -319,7 +319,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 ### Services
 
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
-- [DreamStudio](https://stability.ai/dreamstudio) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
 - [Magic Eraser](https://magicstudio.com/magiceraser/) - Remove unwanted things from images in seconds.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - A tool by Magic Studio that let's you express yourself by just describing what's on your mind.
@@ -327,7 +326,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Patience.ai](https://www.patience.ai/) - Patience.ai is an app for creating images with Stable Diffusion, a cutting edge AI developed by Stability.AI.
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
-- [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Photo AI](https://photoai.com/ai-avatars) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
